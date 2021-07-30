@@ -1,9 +1,9 @@
 [submodule "scratch-vm"]
 	path = gui/scratch-vm
-	url = https://github.com/smalruby/scratch-vm.git
+	url = https://github.com/artec-kk/scratch-vm.git
 [submodule "smalruby3-gui"]
 	path = gui/smalruby3-gui
-	url = https://github.com/smalruby/smalruby3-gui.git
+	url = https://github.com/artec-kk/smalruby3-gui.git
 [submodule "lib/smalruby3"]
 	path = lib/smalruby3
 	url = https://github.com/smalruby/smalruby3.git
